@@ -1,0 +1,7 @@
+{
+  "name": "e-Stylis",
+  "description": "Resumo:\nO e-Stylist é um aplicativo mobile que combina moda, tecnologia e inteligência artificial para ajudar cada pessoa a descobrir e expressar seu próprio estilo. Ele conecta usuários, lojas e stylists profissionais em uma experiência interativa de criação de looks, compras e consultoria personalizada — tudo em um só lugar.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
